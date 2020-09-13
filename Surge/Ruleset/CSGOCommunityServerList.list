@@ -7,7 +7,7 @@ IP-CIDR,221.154.229.86/24,GAME,no-resolve
 //gflclan
 IP-CIDR,216.52.148.47/32,GAME,no-resolve
 //possession
-IP-CIDR,13.231.194.236/32,GAME,no-resolve
+IP-CIDR,13.231.194.236/16,GAME,no-resolve
 IP-CIDR,13.73.0.133/32,GAME,no-resolve
 IP-CIDR,13.231.161.25/32,GAME,no-resolve
 IP-CIDR,13.230.126.145/32,GAME,no-resolve
