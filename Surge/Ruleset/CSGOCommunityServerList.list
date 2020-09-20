@@ -3,6 +3,7 @@ IP-CIDR,87.98.228.196/32,GAME,no-resolve
 //rss
 IP-CIDR,211.222.71.4/24,GAME,no-resolve
 IP-CIDR,221.154.229.86/24,GAME,no-resolve
+IP-CIDR,220.126.115.72/24,GAME,no-resolve
 
 //gflclan
 IP-CIDR,216.52.148.47/32,GAME,no-resolve
