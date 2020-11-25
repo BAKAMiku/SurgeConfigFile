@@ -1,0 +1,11 @@
+
+#!name=Company Used
+#!desc=Special rules need to be applied to the domain name used in the company
+
+[Rule]
+#TestLink IP
+IP-CIDR,182.151.214.170/32,DIRECT
+#dev-charter domain
+DOMAIN,piranha-int.tau.dev-charter.net,PROXY
+#Company Intranet
+IP-CIDR,10.8.2.35/16,DIRECT
