@@ -1,0 +1,6 @@
+#!name=Company Used
+#!desc=Special rules need to be applied to the domain name used in the company
+#!system=mac
+
+[General]
+dns-server = system
