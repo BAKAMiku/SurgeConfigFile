@@ -2,6 +2,9 @@
 #!desc=Special rules need to be applied to the domain name used in the company
 #!system=mac
 
+[General]
+dns-server = system
+
 [Rule]
 #TestLink IP
 IP-CIDR,182.151.214.170/32,DIRECT
