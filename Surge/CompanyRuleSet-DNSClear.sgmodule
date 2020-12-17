@@ -1,6 +1,0 @@
-#!name=Company Used:CompanyDNS
-#!desc=some case may have to use dns in router, so I have to set may DNS to company DNS
-#!system=mac
-
-[General]
-dns-server = system

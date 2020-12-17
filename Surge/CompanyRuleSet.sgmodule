@@ -9,3 +9,5 @@ IP-CIDR,182.151.214.170/32,DIRECT
 DOMAIN,piranha-int.tau.dev-charter.net,PROXY
 #Company Intranet
 IP-CIDR,10.8.2.35/16,DIRECT
+#JIRA
+DOMAIN,jiraprod.askey.com.tw,PROXY
